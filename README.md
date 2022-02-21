@@ -11,8 +11,6 @@ This is a sample application for the verification laboratory.
 ## Getting started
 
 * The application is implemented in PHP.
-* The project can be built using [Gradle](https://gradle.org/).
-* [JUnit](http://junit.org/junit4/) is used for tests.
 
 Clone the repository and execute Gradle to build the application:
 
