@@ -8,7 +8,7 @@ public class TrainSensorImpl implements TrainSensor {
 
 	private TrainController controller;
 	private TrainUser user;
-	privat int speedLimit = 10; // Eddig 5 volt
+	private int speedLimit = 10; // Eddig 5 volt
 
 	public TrainSensorImpl(TrainController controller, TrainUser user) {
 		this.controller = controller;

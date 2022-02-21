@@ -7,6 +7,8 @@ import static org.mockito.Mockito.*;
 
 public class TrainSensorTest {
 
+
+    //TrainSensorImpl sensor = new TrainSensorImpl();
     @Before
     public void before() {
         // TODO Add initializations
@@ -14,6 +16,7 @@ public class TrainSensorTest {
 
     @Test
     public void ThisIsAnExampleTestStub() {
-        // TODO Delete this and add test cases based on the issues
+        Assert.assertEquals(0, 0);
     }
+
 }
